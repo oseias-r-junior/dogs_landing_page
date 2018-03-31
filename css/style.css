@@ -75,7 +75,7 @@ h1 {
 	margin-top: 35px;
 }
 		@media (min-width: 768px) {
-		  .first-section img {
+		  .third-section img {
 		    margin-top: 0;
 		  }
 		}
