@@ -83,7 +83,7 @@ h1 {
 	background-color: #F0F8FF;
 	background-image: url("../img/dogs-pattern.png");
 	background-repeat: repeat;
-	padding: 192px 192px;
+	background-size: 192px 192px;
 }
 footer {
 	background-color: white;
